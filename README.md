@@ -1,6 +1,5 @@
 # RockPaperScissorsByAdri
 
-
 import random
 while True:
     rock = "Rock"
