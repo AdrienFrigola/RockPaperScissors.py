@@ -1,6 +1,7 @@
 # RockPaperScissorsByAdri
-import random
 
+
+import random
 while True:
     rock = "Rock"
     paper = "Paper"
