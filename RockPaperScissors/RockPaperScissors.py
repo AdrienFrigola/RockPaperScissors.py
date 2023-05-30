@@ -39,5 +39,5 @@ while True:
         print("You lose!")
 
     play_again = input("Do you want to play again? [Y]es / [N]o: ")
-    if play_again == "Y":
+    if play_again != "y":
         break
