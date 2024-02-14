@@ -1,5 +1,6 @@
 Rock, Paper, Scissors Game
 This Python script allows you to play the classic game of Rock, Paper, Scissors against the computer. The game runs in an infinite loop until the player decides to quit.
+(https://github.com/AdrienFrigola/RockPaperScissorsByAdri.git)
 
 How to Play
 The player selects their move by entering 'r' for rock, 'p' for paper, or 's' for scissors.
