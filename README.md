@@ -16,11 +16,10 @@ Scissors beat Paper
 Requirements
 Python 3.x
 random module (included in Python standard library)
-Author
-This Rock, Paper, Scissors game was created by [Author Name].
+
 
 Contributions
 Contributions to this project are welcome. Feel free to submit bug reports, feature requests, or pull requests.
 
 License
-This project is licensed under the [License Name] license. See the LICENSE file for more details.
+This project is licensed under the MIT License
